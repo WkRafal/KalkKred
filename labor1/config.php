@@ -1,5 +1,4 @@
 <?php
-//define('_SERVER_NAME', 'localhost:8080');
 define('_SERVER_NAME', 'localhost');
 define('_SERVER_URL', 'http://'._SERVER_NAME);
 define('_APP_ROOT', '/KalkulatorKredytowy');
